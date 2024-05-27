@@ -19,7 +19,7 @@ This project demonstrates how to create an expandable and collapsible ListView i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/expandable-listview-swiftui.git
+   git clone https://github.com/vrushik/expandable-listview-swiftui.git
 
 2.Open the project in Xcode:
 
